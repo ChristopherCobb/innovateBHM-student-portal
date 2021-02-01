@@ -5,7 +5,7 @@
 #### Team members include the following:
   
 - **Christopher Cobb**
-    - Back End Development, Authentication, Routing, Database Management, Front End Support & Content
+    - Back End Development, Authentication, Routing, Database Management, Front End Development/Design & Content
     - [github.com/ChristopherCobb](https://github.com/christophercobb)
   
 - **Sparrow Estes**
