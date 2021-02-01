@@ -1,0 +1,112 @@
+@import '../../../node_modules/bootstrap/scss/bootstrap.scss';
+
+
+.profile-bg-img {
+  background-image: url('/assets/bham-skyline-railroad-park.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+
+  z-index: -100;
+
+  height: 100%;
+  min-height: 750px;
+  width: 100%;
+}
+
+.profile-bottom-row-fix {
+  margin-bottom: -475px;
+}
+
+.profile-info-display {
+  position: absolute;
+  top: 180;
+  left: 75;
+  
+
+  background-color: #161929BB;
+  border-radius: 10px;
+  height: 690px;
+  width: 90%;
+
+}
+
+.profile-profile-pic {
+  box-shadow: 0 0 0 3pt #161929;
+    border-radius: 50%;
+
+    min-height: 125;
+    min-width: 125;
+    max-height: 200;
+    max-width: 200;
+}
+
+.edit-bio-button {
+  position: relative;
+  right: 25px;
+}
+
+
+
+.profile-modals {
+  max-height: 80vh;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+  border: 1px solid #000000;
+  background: #161929BF;
+  min-width: 400;
+  overflow: auto;
+  border-radius: 10px;
+  outline: none;
+
+  color: #FFFFFF;
+}
+
+// .modal-overlay {
+//   position: fixed;
+//   top: 0;
+//   left: 0;
+//   right: 0;
+//   bottom: 0;
+//   background-color: #000000BF;
+// }
+
+// .modal-content {
+//   background-color: transparent;
+//   color: #FFFFFF;
+// }
+
+// .ReactModal__Overlay {
+//   opacity: 0;
+//   transition: opacity 500ms ease-in-out;
+// }
+
+// .ReactModal__Overlay--after-open {
+//   opacity: 1;
+// }
+
+// .ReactModal__Overlay--before-close {
+//   opacity: 0;
+// }
+
+// .close-modal-x {
+//   line-height: .5; 
+//   position: relative;
+//   left: 23;
+//   bottom: 10;
+//   border: none;
+// }
+
+// .close-modal-x:focus:not(:focus-visible) {
+//   outline: 0 !important;
+//   box-shadow: none !important;
+// }

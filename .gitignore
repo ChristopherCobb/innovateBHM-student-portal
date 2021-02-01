@@ -1,0 +1,10 @@
+node_modules/
+dist/
+public/js/app.js
+.env
+
+sage-notes.txt
+
+# src/server/config
+src/server/config/development.ts
+.vscode
