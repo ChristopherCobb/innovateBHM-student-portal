@@ -30,7 +30,14 @@ Deployed project URL - https://quiet-basin-68498.herokuapp.com/
   
   
 ### CONCEPT
-#### As a final project for the Fall 2020 cohort and a way to thank Innovate Birmingham for the technical education, personal support and professional development training we have received over the past several months, our team has proposed to collaborate with the Innovate Birmingham staff to design, develop and implement a 'student' portal for use by future candidates of the program.  
+#### Final project for Innovate Birmingham Full Stack Web Development
+            Bootcamp. Our team designed, developed and implemented a 'student'
+            portal for use by future candidates of the program. Students in both
+            the web development and data analytics programs can use this portal
+            to organize their resources and maintain their professional
+            development progress throughout their bootcamp experience. Innovate
+            Birmingham Administrators will have the ability to offer feedback
+            and track students’ progress throughout the course. 
   
   
 ### INTENT
@@ -38,12 +45,11 @@ Deployed project URL - https://quiet-basin-68498.herokuapp.com/
   
   
 ### TECHNICAL
-- JavaScript
-- Bootstrap
-- Typescript
 - React
-- Express
-- Node
+- Typescript
+- Bootstrap
+- Express.js
+- node.js
 - SCSS
 - MySql  
   
