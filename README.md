@@ -1,8 +1,6 @@
 ## The Innovate Birmingham Candidate Portal Project
 
 Deployed project URL - https://quiet-basin-68498.herokuapp.com/
-
-https://user-images.githubusercontent.com/70594240/106807054-4d84a700-662e-11eb-9fa4-7287960aa78b.png
   
   
 #### Sage Productions is a final project team composed of candidates from Innovate Birmingham's Fall 2020 Cohort. 
